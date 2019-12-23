@@ -1,0 +1,82 @@
+body {
+ 
+ background-color: rgb(0 0 0); 
+
+}
+
+
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.collapse{
+	background-color: rgb(37 41 68);
+	color: white;
+
+}
+.navbar-brand{
+	background-color: rgb(37 41 68);
+	color: white;
+}
+.carouselExampleSlidesOnly{
+	margin-top: 0px;
+}
+.d-block w-100, img{
+        height: 300px;
+        margin-top: 0px;
+}
+
+h6{
+	color: pink; /*rgb(90 61 207);*/ 
+	font-family: oblique; 
+}
+.awl{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	text-shadow: 3px 2px pink;
+	justify-content: center;
+}
+.container_first{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.container_second{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.im{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im:hover {
+	transform: scale(1.1);
+}
+.container_third{
+	display: flex;
+}
+.m{
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+}
+.disc{
+	color: white;
+}
+.page-footer{
+	background-color: white;
+	color: darkblue;
+
+}
+.footer-copyright{
+  background-color: rgb(0,0,0);	
+}
